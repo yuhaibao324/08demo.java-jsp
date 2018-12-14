@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/08demo.java-jsp.iml" filepath="$PROJECT_DIR$/08demo.java-jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jspservletweb/jspservletweb.iml" filepath="$PROJECT_DIR$/jspservletweb/jspservletweb.iml" />
+    </modules>
+  </component>
+</project>
